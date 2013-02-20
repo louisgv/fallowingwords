@@ -1,0 +1,111 @@
+body
+{
+	background: url('../../../images/linen-bg.jpg');
+
+}
+h1
+{
+	padding: 20px;
+	text-align: center;
+	color: #add8e6;
+
+}
+
+#queryBox
+{
+	padding-top: 20px;
+	float: right;
+}
+
+#left
+{
+	-webkit-border-radius: 5px;
+  	-moz-border-radius: 5px;
+	background: #add8e6;
+	height: 500px;
+
+}
+
+div#fall
+{
+	margin: 20px;
+	height: 90%;
+	border: 1px solid #B7B7B7;
+	background: #C1CDCD;
+
+
+}
+
+.word
+{
+	background-color: #555;
+	margin: 5px 3px 5px 0;
+  	padding: 15px 15px;
+  	line-height: 30px;
+  	text-shadow: 0 1px 1px #000;
+  	-webkit-border-radius: 15px;
+  	-moz-border-radius: 15px;
+  	border-radius: 10px;
+	color: #E0EEEE;
+	font-size: 18px;
+	position: absolute;
+	cursor: pointer;
+}
+
+.absolute
+{
+	position: absolute;
+
+}
+
+.word:hover
+{
+	color: white;
+  	text-decoration: none;
+
+}
+
+#right
+{
+	-webkit-border-radius: 5px;
+  	-moz-border-radius: 5px;
+
+	height: 500px;
+	background-color: #C1CDCD;
+
+}
+
+ul li
+{
+
+	list-style: none;
+	margin: 5px 0px 10px 0px;
+}
+
+.list-word
+{
+	margin: 5px 15px 5px 0px;
+	padding: 3px 20px;
+  	text-shadow: 0 1px 1px #000;
+  	-webkit-border-radius: 7px;
+  	-moz-border-radius: 7px;
+  	border-radius: 7px;
+	color: #E0EEEE;
+	font-size: 13px;
+	cursor: pointer;
+
+}
+
+div#saw-list
+{
+	margin: auto;
+	overflow: scroll;
+	padding: 10px;;
+	height: 85%;
+}
+
+.dark-blue
+{
+	color:#1874CD;
+
+}
